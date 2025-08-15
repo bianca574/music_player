@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function(){
     const songs = [
         {title: "Style", file: "songs/style.mp3", image: "assets/1989.jpeg"},
         {title: "Slut!", file: "songs/slut!.mp3", image: "assets/1989.jpeg"},
-        {title: "Blank space", file: "songs/blank-space.mp3", image: "assets/1989.jpeg"},
+        {title: "Blank Space", file: "songs/blank-space.mp3", image: "assets/1989.jpeg"},
     ];
 
     let currentSongIndex = 0;
@@ -96,4 +96,5 @@ document.addEventListener("DOMContentLoaded", function(){
         const value = (this.value - this.min) / (this.max - this.min) * 100;
         this.style.background = `linear-gradient(to right, var(--pink) ${value}%, var(--aud-bg) ${value}%)`;
     });
+
 })
