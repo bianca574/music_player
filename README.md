@@ -1,6 +1,6 @@
 # Music Player 🎵
 
-A lightweight, cross-platform music player built with **Electron**, HTML, CSS, and JavaScript.
+A lightweight music player app built with **Electron**, HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
