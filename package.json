@@ -1,0 +1,49 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "A music player built with Electron",
+  "keywords": [
+    "electron",
+    "app",
+    "javascript",
+    "html",
+    "css",
+    "music player"
+  ],
+  "license": "ISC",
+  "author": "BeeDev",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "build:portable": "electron-builder --win portable"
+  },
+  "build": {
+    "appId": "com.beedev.musicplayer",
+    "productName": "Music Player Electron",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*",
+      "!node_modules/.cache"
+    ],
+    "win": {
+      "target": "portable"
+    }
+  },
+  "devDependencies": {
+    "@electron-forge/plugin-auto-unpack-natives": "^7.8.3",
+    "@electron-forge/plugin-fuses": "^7.8.3",
+    "@electron/fuses": "^1.8.0",
+    "electron": "^37.3.1",
+    "electron-builder": "^26.0.12",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  }
+}
