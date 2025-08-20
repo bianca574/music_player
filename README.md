@@ -1,12 +1,19 @@
 # Music Player 🎵
 
-A lightweight music player app built with **Electron**, HTML, CSS, and JavaScript.
+A lightweight music player built with [Electron](https://www.electronjs.org/).  
+Play locally on your desktop — works on Windows, macOS, and Linux.
 
 ## 🌐 Live Demo
 
 Check out the live site here: [https://bianca574.github.io/music-player/]
 
 ![Music Player](images/screenshot.jpg)
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
