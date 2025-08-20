@@ -29,3 +29,7 @@ npm install
 3. Start the app:
 
 npm start
+
+## 📄 License
+
+This project is closed-source. All rights reserved.
