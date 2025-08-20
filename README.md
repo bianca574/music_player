@@ -2,13 +2,16 @@
 
 A lightweight, cross-platform music player built with **Electron**, HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+
+Check out the live site here: [https://bianca574.github.io/music-player/]
+
+![Music Player](images/screenshot.jpg)
+
 ## Features
 
-- Play local audio files
 - Transparent and customizable interface
 - Frameless window with draggable header
-- Custom close and minimize buttons
-- Playlist support (optional)
 
 ## Installation
 
