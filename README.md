@@ -7,7 +7,7 @@ Play locally on your desktop — works on Windows, macOS, and Linux.
 
 Check out the live site here: [https://bianca574.github.io/music_player/]
 
-![Music Player](images/screenshot.jpg)
+![Music Player](assets/screenshot.jpg)
 
 ## 🛠️ Technologies Used
 
