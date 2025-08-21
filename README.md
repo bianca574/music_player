@@ -18,6 +18,7 @@ Check out the live site here: [https://bianca574.github.io/music_player/]
 ## Features
 
 - Transparent and customizable interface
+- Play, pause, rewind and fast forward buttons
 - Frameless window with draggable header
 
 ## 📦 Installation
