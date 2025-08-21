@@ -5,7 +5,7 @@ Play locally on your desktop — works on Windows, macOS, and Linux.
 
 ## 🌐 Live Demo
 
-Check out the live site here: [https://bianca574.github.io/music-player/]
+Check out the live site here: [https://bianca574.github.io/music_player/]
 
 ![Music Player](images/screenshot.jpg)
 
@@ -26,7 +26,7 @@ Check out the live site here: [https://bianca574.github.io/music-player/]
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/music-player.git
+git clone https://github.com/bianca574/music_player.git
 cd music-player
 
 2. Install dependencies:
