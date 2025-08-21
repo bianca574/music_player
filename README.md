@@ -17,12 +17,12 @@ Check out the live site here: [https://bianca574.github.io/music_player/]
 
 ## ✨ Features
 
--▶️ Play, pause, rewind, and fast forward buttons
--⏱ Elapsed and remaining time display
--🎚 Progress bar for song position and seeking
--🖱 Frameless window with draggable header
--🌟 Transparent and customizable interface
--⚡ Lightweight and responsive Electron app
+- ▶️ Play, pause, rewind, and fast forward buttons  
+- ⏱ Elapsed and remaining time display
+- 🎚 Progress bar for song position and seeking  
+- 🖱 Frameless window with draggable header  
+- 🌟 Transparent and customizable interface  
+- ⚡ Lightweight and responsive Electron app  
 
 ## 📦 Installation
 
